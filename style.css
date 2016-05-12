@@ -1,0 +1,88 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
+body {
+  background-color: green;
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Orbitron', sans-serif;
+  color: white;
+}
+
+h1 {
+  margin-left: 520px;
+}
+
+#bank {
+  margin-left: 350px;
+  font-size: 20px;
+}
+
+#betDiv {
+  margin-left: 350px;
+  font-size: 20px;
+}
+
+#PlayerAndDealer {
+  display: inline;
+}
+
+.Player {
+  margin-top: 22px;
+  margin-left: 100px;
+  max-width: 10px;
+}
+
+#playerCardContainer {
+  display: inline;
+}
+
+#dealerCardContainer {
+  display: block;
+}
+
+.card {
+  display: inline-block;
+  width: 130px;
+  height: 160px;
+  border: 10px solid red;
+  margin-left: 100px;
+  margin-top: 25px;
+}
+
+.compCard {
+  display: inline-block;
+  width: 130px;
+  height: 160px;
+  border: 10px solid black;
+  margin-left: 100px;
+  margin-top: 60px;
+}
+
+.buttons {
+  display: block;
+  margin-top: 33px;
+  margin-left: 90px;
+}
+
+.upper-left {
+  margin-left: 5px;
+}
+
+.lower-right {
+  margin-top: 120px;
+  margin-left: 99px;
+}
+
+#cardTotal {
+  margin-top: 30px;
+  margin-left: 255px;
+}
+
+.dealerStuff {
+  margin-top: 65px;
+  margin-left: 350px;
+}
+
+#dealerBank {
+  font-size: 20px;
+}
